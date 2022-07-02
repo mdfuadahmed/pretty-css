@@ -1,4 +1,26 @@
+p{
+    color: red;
+    background-color: green;
+    height: 50px;
+    width: 70%;
+    font-size: 25px;
+}
+h1{
+    color: #e01cc3cd;  
+}
+h3{
+    color: slategray;
+}
 
+#rus{
+    color: orange;
+}
+.pera{
+    color: #000000;
+}
+.back{
+    background-color: blue;
+}
         small{
             color: green;
         }
