@@ -1,0 +1,23 @@
+
+        small{
+            color: green;
+        }
+        .bloging{
+            background-color: lightblue;
+            border: 5px solid #5c16d4;
+            border-radius: 15px;
+            margin: 20px;
+            padding: 20px;
+        }
+        span{
+            color: red;
+        }
+        .blog-title{
+            text-align: center;
+            font-size: 2em;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        div p{
+            text-align: center;
+            font-weight: bold;
+        }
